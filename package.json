@@ -1,0 +1,24 @@
+{
+  "name": "@tschallacka/oc.foundation.event",
+  "version": "1.0.0",
+  "description": "Event object for the October Foundation framework",
+  "main": "oc.foundation.event.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_oc.foundation.event.git"
+  },
+  "keywords": [
+    "october",
+    "foundation",
+    "octobercms"
+  ],
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_oc.foundation.event/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_oc.foundation.event#readme"
+}
